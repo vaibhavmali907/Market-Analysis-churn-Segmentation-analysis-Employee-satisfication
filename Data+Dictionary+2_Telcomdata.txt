@@ -1,0 +1,22 @@
+Telecom
+
+state: The state where the services are currently active
+account length: Months since the customer is active
+area code: Area code where the services are active
+phone number: Phone number of the customer	
+international plan: If the customer is using the international plan or not?	
+voice mail plan: If the customer is using voice mail plan or not?
+number vmail messages: Number of voice mail messages done by the customer
+total day minutes: Total day minute of usage
+total day calls	total day charge: Total charges for day calls
+total eve minutes: Total evening minutes of usage
+total eve calls	total eve charge: Total charges on evening calls	
+total night minutes	total night calls: Toal night minute of usage
+total night charge: Total charge on night calls
+total intl minutes: Total international minutes of usage
+total intl calls: Total number of international calls
+total intl charge: Total charge on international calls	
+customer service calls: Number of times, the customer called the customer support
+churn: If the customer is currently active on the network or not?
+			FALSE: The customer is using the services and is currently active on the network.
+			TRUE: The customer has left using the services and is not active on the network.

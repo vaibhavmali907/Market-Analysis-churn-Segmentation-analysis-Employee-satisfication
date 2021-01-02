@@ -1,0 +1,35 @@
+Churn_data
+
+1. customerID: Unique ID given to each customer
+2. tenure: Number of months, the customer is active on the network	
+3. PhoneService: If the customer is using phone service or not?
+4. Contract: What type of agreement is between the customer and the operator: 
+				Month-to-month: Month wise biling
+				One year: Yearly biling
+5. PaperlessBilling: If the customer has opted for papaerless billing?
+6. PaymentMethod: What type of payment method is preferred by the customer?	
+7. MonthlyCharges: Monthly charge on services used by the customer	
+8. TotalCharges: Total amount spent by the customer on various services till date
+9. Churn: If the customer is currently active on the network or not?
+			No: The customer is using the services and is currently active on the network.
+			Yes: The customer has left using the services and is not active on the network.
+
+Customer_data
+
+1. customerID: Unique ID given to each customer
+2. gender: What's the gender of the customer: Male/Female
+3. SeniorCitizen: If the customer is a senior citizen or not?	
+4. Partner: If the customer is having any partner or not?
+5. Dependents: If the customer is having any dependents or not? 
+
+Internet_data
+
+1. customerID: Unique ID given to each customer
+2. MultipleLines: If the customer is having multiple lines or not?
+3. InternetService: What type of internet service, the customer is using?
+4. OnlineSecurity: If the customer has taken up online security as a service?	
+5. OnlineBackup: If the customer has taken up online backup as a service?
+6. DeviceProtection: If the customer has taken up online protection as a service?
+7. TechSupport: If the customer has taken up tech support as a service?
+8. StreamingTV: If the customer has taken up streaming TV as a service?
+9. StreamingMovies: If the customer has taken up streaming movies as a service?

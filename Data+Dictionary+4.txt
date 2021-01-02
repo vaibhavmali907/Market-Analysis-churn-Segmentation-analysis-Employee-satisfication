@@ -1,0 +1,37 @@
+Employee
+
+Age: Age of the employee
+Attrition: If the employee has left the company: Yes: Left the company, No: Currently working
+BusinessTravel: Do the employee prefer businees travel? 
+DailyRate	: Daily income rate
+Department: In which department the employee works at?
+DistanceFromHome: The distance from the employee's home to office	
+Education: Level of education
+EducationField: Field of education	
+EmployeeCount: 1 
+EmployeeNumber: Employee ID	
+EnvironmentSatisfaction: Rating given by the employee on his/her satisfaction about the working environment.
+Gender: Male/Female	
+HourlyRate: Hourly income Rate
+JobInvolvement: Scale that describe how involved the person is with his/her current job/position	
+JobLevel: The level at which employee is currently working
+JobRole: Position name
+JobSatisfaction: Rating given by the employee on his/her satisfaction about the current job role.	
+MaritalStatus: Married or Single?
+MonthlyIncome: Monthly salary of the employee
+MonthlyRate: Pay scale at which the employee is currently working
+NumCompaniesWorked: Number of companies the employee has worked before this company
+Over18: If the employee age above 18 or not?
+OverTime: If the employee prefer Over Time or not?	
+PercentSalaryHike: The last salary hike percentage given to the employee
+PerformanceRating: Performance rating of the employee	
+RelationshipSatisfaction: How satisfied the employee is with his/her manager?	
+StandardHours: Standard working hours in a week
+StockOptionLevel: Number of stocks the employee hold for the company
+TotalWorkingYears: Total working experience	
+TrainingTimesLastYear: Time spend by the employee on traning. 	
+WorkLifeBalance: Scale provided by the employee on his/her satisfaction about work-life balance
+YearsAtCompany: Total year at the present company
+YearsInCurrentRole: Total year in current role
+YearsSinceLastPromotion: Years since last promotion
+YearsWithCurrManager: Years working with the current manager
